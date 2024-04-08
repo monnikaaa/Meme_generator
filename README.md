@@ -1,1 +1,2 @@
-# Meme_generator
+# meme-generator
+ Scrimba Meme generator project
